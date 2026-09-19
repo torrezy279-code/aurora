@@ -1,0 +1,6 @@
+{
+  "name": "Loja de Roupas - Moda Contemporânea",
+  "description": "Landing page moderna e interativa de loja de roupas com catálogo visual, provador virtual, filtros, sacola de compras e lookbook autoral.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
